@@ -24,9 +24,9 @@ En mi tiempo libre me gusta tocar el piano, todo tipo de musica, y jugar a algun
 
 
 ### Proyección en la materia
-Para esta materia espero profundizar agilizandome mas con el tema de la programación, ya que me viene gustando mucho y quiero darle mas utilidad al potencial que tiene.
+Para esta materia espero profundizar agilizandome mas con el tema de la programación, ya que me viene gustando mucho y quiero darle mas utilidad con el potencial que tiene.
 
-![end](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6cP66VeePgtP7gdwBmSBwC1WCqyRvky-IQ-KjdJipg&s)
+###### Y bueno, en resumen sería eso.
 
 ------
 
